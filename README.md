@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I;m @SoungbinC
+### 👀 I am interested in Software Engineering and full-stack
+### 🌱 I’m currently learning front_end and graph theory
+### 📫 How to reach me: The best way to reach me is email, [linkedin](http://www.linkedin.com/in/iam1004foryou)
 
 <!--
 **SoungbinC/SoungbinC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
