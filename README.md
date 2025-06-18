@@ -1,7 +1,8 @@
-### 👋 Hi, I;m @SoungbinC
-### 👀 I am interested in Software Engineering and full-stack
-### 🌱 I’m currently learning front_end and graph theory
-### 📫 How to reach me: The best way to reach me is email, [linkedin](http://www.linkedin.com/in/iam1004foryou)
+### 👋 Hi, I am Soungbin
+### 👀 I am interested in Software Engineering and full-stack and deep learning.
+### Now, this will be the main repo. Keep tune my repo. I will update frequently about my works.
+
+
 
 <!--
 **SoungbinC/SoungbinC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
